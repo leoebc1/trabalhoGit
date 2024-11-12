@@ -1,0 +1,8 @@
+# Ignorar o diretório node_modules
+node_modules/
+
+# Ignorar o arquivo package.json (não recomendado, pois normalmente queremos rastrear esse arquivo)
+package.json
+
+# Ignorar o arquivo package-lock.json (não recomendado, mas possível)
+package-lock.json
