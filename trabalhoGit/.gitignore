@@ -6,3 +6,5 @@ package.json
 
 # Ignorar o arquivo package-lock.json (não recomendado, mas possível)
 package-lock.json
+
+
